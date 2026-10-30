@@ -1,0 +1,35 @@
+====================================================================
+🍪 COOKIES & COOKIES - GUIA RÁPIDO DO PROJETO ATUAL
+====================================================================
+
+📁 LOCALIZAÇÃO DA PASTA:
+Esta pasta está salva na sua Área de Trabalho:
+C:\Users\Usuario\Desktop\Cookies Atual
+
+--------------------------------------------------------------------
+🎯 ONDE FICAM OS ARQUIVOS PARA ATUALIZAÇÃO VISUAL:
+--------------------------------------------------------------------
+
+1. PÁGINA INICIAL (Botão WhatsApp + Ver Cardápio Completo):
+   artifacts/cookies-and-cookies/src/pages/Landing.tsx
+
+2. CARDÁPIO COMPLETO (Vitrine, Monte seu Desejo, Mural da Fama, Rodapé):
+   artifacts/cookies-and-cookies/src/App.tsx
+
+3. PAINEL DE ADMINISTRAÇÃO (Login 'cookie123' para gerenciar fotos/produtos):
+   artifacts/cookies-and-cookies/src/pages/Admin.tsx
+
+4. ESTILOS GLOBAIS E CORES:
+   artifacts/cookies-and-cookies/src/index.css
+
+5. IMAGENS E LOGOS:
+   attached_assets/generated_images/
+
+--------------------------------------------------------------------
+🚀 COMO INICIAR O SITE LOCALMENTE:
+--------------------------------------------------------------------
+Basta dar dois cliques no arquivo:
+👉 "ABRIR_PROJETO.bat" nesta pasta!
+
+Ele vai abrir a janela do servidor e já carregar o site no seu navegador.
+====================================================================
